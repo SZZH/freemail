@@ -13,14 +13,10 @@ database_id = "13b729ec-f812-45e2-897b-f9bd2eb12f37" # 你的database_id
 # 环境变量
 [vars]
 # FORWARD_RULES="[{"prefix":"vip","email":"a@example.com"},{"prefix":"*","email":"example@qq.com"}]"
-ADMIN_NAME=""
-ADMIN_PASSWORD=""
+ADMIN_NAME="admin"
 GUEST_PASSWORD="guest"
-JWT_TOKEN="fjiwaiv23164s4fdsfs6df6wfdx"
-JWT_TOKENGUEST_PASSWORD="dfsfsfxzcv"
 SESSION_EXPIRE_DAYS="365"
-MAIL_DOMAIN=""
-RESEND_API_KEY=""
+MAIL_DOMAIN="kimik3.com"
 
 
 
