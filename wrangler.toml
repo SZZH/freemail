@@ -14,7 +14,9 @@ database_id = "13b729ec-f812-45e2-897b-f9bd2eb12f37" # 你的database_id
 [vars]
 # FORWARD_RULES="[{"prefix":"vip","email":"a@example.com"},{"prefix":"*","email":"example@qq.com"}]"
 ADMIN_NAME="admin"
+ADMIN_PASSWORD="^&E5cnU9ir#qMtS=BvLL"
 GUEST_PASSWORD="guest"
+JWT_TOKEN="VL997uckyMJUgQq8IgHJ5cDQxDHl-c4SvTYu3Vayzh_0U3JIZ2ZBBEbqeXF0P4tw"
 SESSION_EXPIRE_DAYS="365"
 MAIL_DOMAIN="kimik3.com"
 
